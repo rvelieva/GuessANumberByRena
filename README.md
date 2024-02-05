@@ -1,5 +1,6 @@
 # The game "Guess a number"
 Guess a number is a simple guessing game where you have to guess the number that is in your oponent(computer) mind. 
+
 ![image](https://github.com/rvelieva/GuessANumberByRena/assets/156831546/12b7b32e-b6a4-4f60-a8c5-b8bfd6dadc93)
 
 
